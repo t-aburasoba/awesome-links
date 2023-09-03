@@ -1,4 +1,5 @@
 import Head from 'next/head';
+
 import { links } from '../data/links';
 
 export default function Home() {

@@ -1,0 +1,6 @@
+node_modules
+.next
+pnpm-lock.yml
+public
+src/generated/*.ts
+src/generated/*.graphql
