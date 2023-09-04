@@ -17,6 +17,8 @@
     "studio": "npx prisma studio"
   },
   "dependencies": {
+    "@pothos/core": "^3.33.1",
+    "@pothos/plugin-prisma": "^3.59.0",
     "@prisma/client": "5.2.0",
     "graphql": "^16.8.0",
     "graphql-yoga": "^4.0.4",
